@@ -230,10 +230,13 @@ export default function Home() {
 				<div>
 					<div className="flex justify-between items-baseline">
 						<h1 className="text-white font-semibold text-2xl">
-							Discord Embed Creator
+							디스코드 임베드 크리에이터
 						</h1>
+						<h4>
+							이 사이트는 Daniel Huang의 영어 버전 프로젝트를 단순히 한글화하여 배포한 것임을 밝힙니다
+						</h4>
 						<a
-							href="https://github.com/cubedhuang/discord-embed-creator"
+							href="https://github.com/PIXELHIZE/discord-embed-creator"
 							target="_blank"
 							rel="noopener noreferrer"
 							className="hover:underline"
